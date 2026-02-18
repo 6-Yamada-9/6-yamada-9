@@ -1,5 +1,12 @@
-## Hi there 👋
+## About me
+moi hi konichiwa
 
+im japanese student
+
+ill want to make something
+
+
+thank you
 <!--
 **6-Yamada-9/6-yamada-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
